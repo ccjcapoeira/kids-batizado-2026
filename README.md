@@ -12,6 +12,7 @@
 
 - `index.html` — 本番ページ
 - `styles.css` — デザイン
+- `assets/team-logo.png` — CCJ.CAPOEIRA チームロゴ
 
 画像や外部ライブラリを使わない静的HTMLです。`index.html`を直接ブラウザで開いて確認できます。
 

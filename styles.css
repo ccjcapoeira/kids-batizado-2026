@@ -514,12 +514,27 @@ h1 em {
   font-size: clamp(1.75rem, 7vw, 2.7rem);
 }
 
+.ccj-brand {
+  display: grid;
+  justify-items: center;
+  gap: 22px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.ccj-logo {
+  display: block;
+  width: clamp(132px, 38vw, 164px);
+  height: auto;
+  filter: drop-shadow(0 10px 18px rgba(0, 0, 0, 0.2));
+}
+
 .section-kicker--light {
   color: #ffd65c;
 }
 
 .ccj-sub {
-  margin-bottom: 28px;
+  margin-bottom: 0;
   color: #bee1d6;
   font-size: 0.83rem;
   font-weight: 700;
