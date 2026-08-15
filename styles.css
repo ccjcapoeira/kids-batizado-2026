@@ -402,20 +402,23 @@ h1 em {
 }
 
 .schedule-note {
+  display: grid;
+  place-items: center;
+  min-height: 112px;
   margin-top: 24px;
-  padding: 22px;
+  padding: 26px 24px;
   border: 2px dashed var(--orange);
   border-radius: var(--radius);
   text-align: center;
 }
 
-.schedule-note p {
-  margin-bottom: 7px;
-}
-
 .schedule-note strong {
   display: block;
+  max-width: 21em;
+  margin: 0 auto;
   color: var(--brown);
+  font-size: 1.04rem;
+  line-height: 1.7;
 }
 
 .community-area {
