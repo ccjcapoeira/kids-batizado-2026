@@ -522,6 +522,11 @@ h1 em {
   text-align: center;
 }
 
+.ccj-brand h2 {
+  font-size: clamp(1.52rem, 6vw, 2.4rem);
+  letter-spacing: -0.04em;
+}
+
 .ccj-logo {
   display: block;
   width: clamp(132px, 38vw, 164px);
