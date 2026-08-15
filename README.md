@@ -4,7 +4,9 @@
 
 ## 公開URL
 
-公開前です。GitHub Pages用の公開リポジトリを作成後、ここにQR用のHTTPS URLを記載します。
+**QR用URL：<https://ccjcapoeira.github.io/kids-batizado-2026/>**
+
+公開リポジトリ：<https://github.com/ccjcapoeira/kids-batizado-2026>
 
 ## ファイル
 
