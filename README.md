@@ -4,9 +4,13 @@
 
 ## 公開URL
 
-**QR用URL：<https://ccjcapoeira.github.io/kids-batizado-2026/>**
+**公式サイト（cordao.org・重要）：<https://cordao.org/free/kids-batizado-2026>**
+
+ポスターQR用：<https://ccjcapoeira.github.io/kids-batizado-2026/>
 
 公開リポジトリ：<https://github.com/ccjcapoeira/kids-batizado-2026>
+
+Goope本番のHTMLスナップショット（2026-08-30取得）：`archive/goope-cordao.org_2026-08-30.html`
 
 ## ファイル
 
